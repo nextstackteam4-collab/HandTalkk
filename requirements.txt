@@ -6,3 +6,4 @@ aiofiles
 Pillow
 google-api-python-client
 httpx
+python-multipart
