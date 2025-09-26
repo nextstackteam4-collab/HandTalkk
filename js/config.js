@@ -1,3 +1,4 @@
 // frontend/js/config.js
 
-const BACKEND_URL = "https://HandTalk.onrender.com";
+const BACKEND_URL = "https://handtalk-wy4h.onrender.com";
+
